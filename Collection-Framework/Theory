@@ -1,1 +1,2 @@
 The Java Collection Framework Is A Library Of Classes And Interface Of Working with Collections of Objects. 
+A Collection is an Object Which can Store other objects,called elements.Collections provide methods For Adding and Removing Elements,And Searching For a particular element with the Collection. 
